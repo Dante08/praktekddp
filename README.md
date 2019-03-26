@@ -1,3 +1,2 @@
 # praktekddp
-hasil praktek ane yang alakadarnya xdd
-ini cuma backup doang sebenernya mau gue private tapi....
+sekarang bukan ddp lagi, tapi hasil praktek di lab. biar enak ngambil project nya
